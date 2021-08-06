@@ -1,0 +1,135 @@
+[27-Nov-2018 06:00:12 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/findnrqi/solemole.com/apirental/car_detail.php on line 44
+[27-Nov-2018 06:04:13 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/findnrqi/solemole.com/apirental/car_detail.php on line 44
+[27-Nov-2018 06:10:27 America/New_York] PHP Notice:  Undefined index: shop_name in /home/findnrqi/solemole.com/apirental/shop.php on line 16
+[27-Nov-2018 06:10:27 America/New_York] PHP Notice:  Undefined index: cell_no in /home/findnrqi/solemole.com/apirental/shop.php on line 18
+[27-Nov-2018 06:10:27 America/New_York] PHP Notice:  Undefined index: address in /home/findnrqi/solemole.com/apirental/shop.php on line 20
+[27-Nov-2018 06:10:27 America/New_York] PHP Notice:  Undefined index: customer_id in /home/findnrqi/solemole.com/apirental/shop.php on line 22
+[27-Nov-2018 06:10:27 America/New_York] PHP Notice:  Undefined index: longitude in /home/findnrqi/solemole.com/apirental/shop.php on line 24
+[27-Nov-2018 06:10:27 America/New_York] PHP Notice:  Undefined index: latitude in /home/findnrqi/solemole.com/apirental/shop.php on line 26
+[27-Nov-2018 06:10:27 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/findnrqi/solemole.com/apirental/shop.php on line 34
+[27-Nov-2018 06:11:09 America/New_York] PHP Notice:  Undefined index: shop_name in /home/findnrqi/solemole.com/apirental/shop.php on line 16
+[27-Nov-2018 06:11:09 America/New_York] PHP Notice:  Undefined index: cell_no in /home/findnrqi/solemole.com/apirental/shop.php on line 18
+[27-Nov-2018 06:11:09 America/New_York] PHP Notice:  Undefined index: address in /home/findnrqi/solemole.com/apirental/shop.php on line 20
+[27-Nov-2018 06:11:09 America/New_York] PHP Notice:  Undefined index: customer_id in /home/findnrqi/solemole.com/apirental/shop.php on line 22
+[27-Nov-2018 06:11:09 America/New_York] PHP Notice:  Undefined index: longitude in /home/findnrqi/solemole.com/apirental/shop.php on line 24
+[27-Nov-2018 06:11:09 America/New_York] PHP Notice:  Undefined index: latitude in /home/findnrqi/solemole.com/apirental/shop.php on line 26
+[27-Nov-2018 06:11:09 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/findnrqi/solemole.com/apirental/shop.php on line 34
+[27-Nov-2018 06:27:17 America/New_York] PHP Notice:  Undefined index: shop_name in /home/findnrqi/solemole.com/apirental/shop.php on line 16
+[27-Nov-2018 06:27:17 America/New_York] PHP Notice:  Undefined index: cell_no in /home/findnrqi/solemole.com/apirental/shop.php on line 18
+[27-Nov-2018 06:27:17 America/New_York] PHP Notice:  Undefined index: address in /home/findnrqi/solemole.com/apirental/shop.php on line 20
+[27-Nov-2018 06:27:17 America/New_York] PHP Notice:  Undefined index: customer_id in /home/findnrqi/solemole.com/apirental/shop.php on line 22
+[27-Nov-2018 06:27:17 America/New_York] PHP Notice:  Undefined index: longitude in /home/findnrqi/solemole.com/apirental/shop.php on line 24
+[27-Nov-2018 06:27:17 America/New_York] PHP Notice:  Undefined index: latitude in /home/findnrqi/solemole.com/apirental/shop.php on line 26
+[27-Nov-2018 06:27:17 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/findnrqi/solemole.com/apirental/shop.php on line 34
+[27-Nov-2018 06:32:54 America/New_York] PHP Notice:  Undefined index: model in /home/findnrqi/solemole.com/apirental/carupdate.php on line 24
+[27-Nov-2018 06:32:54 America/New_York] PHP Notice:  Undefined index: condition in /home/findnrqi/solemole.com/apirental/carupdate.php on line 25
+[27-Nov-2018 06:32:54 America/New_York] PHP Notice:  Undefined index: type in /home/findnrqi/solemole.com/apirental/carupdate.php on line 26
+[27-Nov-2018 06:32:54 America/New_York] PHP Notice:  Undefined index: car_no in /home/findnrqi/solemole.com/apirental/carupdate.php on line 27
+[27-Nov-2018 06:32:54 America/New_York] PHP Notice:  Undefined index: retail_shop_id in /home/findnrqi/solemole.com/apirental/carupdate.php on line 28
+[27-Nov-2018 06:32:54 America/New_York] PHP Notice:  Undefined index: rent in /home/findnrqi/solemole.com/apirental/carupdate.php on line 29
+[27-Nov-2018 06:32:54 America/New_York] PHP Notice:  Undefined variable: id in /home/findnrqi/solemole.com/apirental/carupdate.php on line 31
+[27-Nov-2018 06:32:54 America/New_York] PHP Notice:  Array to string conversion in /home/findnrqi/solemole.com/apirental/carupdate.php on line 41
+[27-Nov-2018 06:40:55 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/findnrqi/solemole.com/apirental/shop.php on line 34
+[27-Nov-2018 06:51:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/findnrqi/solemole.com/apirental/shop.php on line 34
+[27-Nov-2018 06:55:58 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/findnrqi/solemole.com/apirental/shop.php on line 34
+[27-Nov-2018 06:57:14 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 06:57:37 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:01:16 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:01:18 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:01:20 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:01:48 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:01:52 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:01:59 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:03:00 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:03:10 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:03:14 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:04:43 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:05:31 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:05:34 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:07:08 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:07:37 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/findnrqi/solemole.com/apirental/shop.php on line 36
+[27-Nov-2018 07:08:30 America/New_York] PHP Notice:  Undefined variable: last_id in /home/findnrqi/solemole.com/apirental/shop.php on line 46
+[27-Nov-2018 07:08:45 America/New_York] PHP Notice:  Undefined variable: last_id in /home/findnrqi/solemole.com/apirental/shop.php on line 46
+[27-Nov-2018 07:10:47 America/New_York] PHP Notice:  Undefined variable: last_id in /home/findnrqi/solemole.com/apirental/shop.php on line 46
+[27-Nov-2018 07:11:24 America/New_York] PHP Notice:  Undefined variable: last_id in /home/findnrqi/solemole.com/apirental/shop.php on line 46
+[27-Nov-2018 07:13:19 America/New_York] PHP Deprecated:  mysql_insert_id(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/findnrqi/solemole.com/apirental/shop.php on line 41
+[27-Nov-2018 07:13:19 America/New_York] PHP Warning:  mysql_insert_id(): Access denied for user 'root'@'localhost' (using password: NO) in /home/findnrqi/solemole.com/apirental/shop.php on line 41
+[27-Nov-2018 07:13:19 America/New_York] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home/findnrqi/solemole.com/apirental/shop.php on line 41
+[27-Nov-2018 07:15:31 America/New_York] PHP Notice:  Undefined index: id in /home/findnrqi/solemole.com/apirental/shop.php on line 47
+[27-Nov-2018 07:15:34 America/New_York] PHP Notice:  Undefined index: id in /home/findnrqi/solemole.com/apirental/shop.php on line 47
+[27-Nov-2018 07:17:28 America/New_York] PHP Notice:  Undefined variable: 38 in /home/findnrqi/solemole.com/apirental/shop.php on line 49
+[27-Nov-2018 07:55:06 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/findnrqi/solemole.com/apirental/car_detail.php on line 44
+[28-Nov-2018 05:21:13 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/findnrqi/solemole.com/apirental/car_detail.php on line 44
+[28-Nov-2018 05:21:44 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/findnrqi/solemole.com/apirental/car_detail.php on line 44
+[28-Nov-2018 05:23:13 America/New_York] PHP Notice:  Array to string conversion in /home/findnrqi/solemole.com/apirental/car_detail.php on line 35
+[28-Nov-2018 05:26:10 America/New_York] PHP Notice:  Array to string conversion in /home/findnrqi/solemole.com/apirental/car_detail.php on line 35
+[28-Nov-2018 05:26:15 America/New_York] PHP Notice:  Array to string conversion in /home/findnrqi/solemole.com/apirental/car_detail.php on line 35
+[28-Nov-2018 05:40:21 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 29
+[28-Nov-2018 05:40:26 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 29
+[28-Nov-2018 05:41:41 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 29
+[28-Nov-2018 05:42:35 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 31
+[28-Nov-2018 05:42:53 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 31
+[28-Nov-2018 05:43:27 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 29
+[28-Nov-2018 05:43:30 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 29
+[28-Nov-2018 05:43:50 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 29
+[28-Nov-2018 05:43:54 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 29
+[28-Nov-2018 05:44:34 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 29
+[28-Nov-2018 05:44:38 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 29
+[28-Nov-2018 05:46:01 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 32
+[28-Nov-2018 05:59:03 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/findnrqi/solemole.com/apirental/shopcars.php on line 37
+[28-Nov-2018 05:59:14 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/findnrqi/solemole.com/apirental/shopcars.php on line 37
+[28-Nov-2018 06:01:22 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/findnrqi/solemole.com/apirental/shopcars.php on line 37
+[28-Nov-2018 06:01:30 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/findnrqi/solemole.com/apirental/shopcars.php on line 37
+[28-Nov-2018 06:01:33 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/findnrqi/solemole.com/apirental/shopcars.php on line 37
+[28-Nov-2018 06:01:37 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/findnrqi/solemole.com/apirental/shopcars.php on line 37
+[28-Nov-2018 06:01:42 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/findnrqi/solemole.com/apirental/shopcars.php on line 37
+[28-Nov-2018 06:02:23 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/findnrqi/solemole.com/apirental/shopcars.php on line 41
+[28-Nov-2018 06:02:26 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/findnrqi/solemole.com/apirental/shopcars.php on line 41
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'id' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 33
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'model' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 34
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'id' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 33
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'model' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 34
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'id' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 33
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'model' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 34
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'id' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 33
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'model' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 34
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'id' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 33
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'model' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 34
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'id' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 33
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'model' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 34
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'id' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 33
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'model' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 34
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'id' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 33
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'model' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 34
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'id' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 33
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'model' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 34
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'id' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 33
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'model' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 34
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'id' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 33
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'model' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 34
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'id' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 33
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'model' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 34
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'id' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 33
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'model' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 34
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'id' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 33
+[28-Nov-2018 06:03:02 America/New_York] PHP Warning:  Illegal string offset 'model' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 34
+[28-Nov-2018 06:03:02 America/New_York] PHP Notice:  Undefined variable: array in /home/findnrqi/solemole.com/apirental/shopcars.php on line 50
+[28-Nov-2018 06:08:46 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 32
+[28-Nov-2018 06:09:19 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 32
+[28-Nov-2018 06:09:23 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 32
+[28-Nov-2018 06:10:21 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 32
+[28-Nov-2018 06:10:24 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 32
+[28-Nov-2018 06:10:29 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ')' in /home/findnrqi/solemole.com/apirental/shopcars.php on line 32
+[28-Nov-2018 06:15:03 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/findnrqi/solemole.com/apirental/shopcars.php on line 20
+[28-Nov-2018 06:15:05 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/findnrqi/solemole.com/apirental/shopcars.php on line 20
+[28-Nov-2018 06:15:32 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/findnrqi/solemole.com/apirental/shopcars.php on line 20
+[28-Nov-2018 06:17:09 America/New_York] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/findnrqi/solemole.com/apirental/shopcars.php on line 20
+[28-Nov-2018 06:18:56 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/findnrqi/solemole.com/apirental/shopcars.php on line 21
+[28-Nov-2018 06:19:01 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/findnrqi/solemole.com/apirental/shopcars.php on line 21
+[28-Nov-2018 06:19:54 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/findnrqi/solemole.com/apirental/shopcars.php on line 26
+[28-Nov-2018 06:19:56 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/findnrqi/solemole.com/apirental/shopcars.php on line 26
+[28-Nov-2018 06:21:42 America/New_York] PHP Notice:  Undefined variable: row in /home/findnrqi/solemole.com/apirental/shopcars.php on line 64
+[28-Nov-2018 06:45:29 America/New_York] PHP Notice:  Array to string conversion in /home/findnrqi/solemole.com/apirental/all_shops.php on line 29
+[28-Nov-2018 06:45:51 America/New_York] PHP Notice:  Undefined variable: params in /home/findnrqi/solemole.com/apirental/all_shops.php on line 29
+[28-Nov-2018 07:18:27 America/New_York] PHP Notice:  Undefined variable: res in /home/findnrqi/solemole.com/apirental/shopcars.php on line 32
+[28-Nov-2018 07:18:35 America/New_York] PHP Notice:  Undefined variable: res in /home/findnrqi/solemole.com/apirental/shopcars.php on line 32
